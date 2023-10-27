@@ -1,2 +1,2 @@
-# Beta01-Project
-Beta v01 of face recognition 
+# Project - Taller de Programacion
+Project of face recognition 
